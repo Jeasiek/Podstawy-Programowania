@@ -1,0 +1,1 @@
+CMakeLists.txt not found in C:\Users\Wiktor\Desktop\Studia\Podstawy Programowania Select CMakeLists.txt
